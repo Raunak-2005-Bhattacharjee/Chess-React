@@ -22,15 +22,7 @@ A realtime, 2-player chess game built with React (Vite) on the frontend and Node
 
 ---
 
-## Table of contents
 
-- [Prerequisites](#prerequisites)
-- [Running locally](#running-locally)
-- [Configuration](#configuration)
-- [Development workflow](#development-workflow)
-- [Project structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -107,22 +99,5 @@ VITE_SOCKET_URL=http://localhost:4000
 
 ---
 
-## Contributing
 
-- Open an issue for feature requests or bugs
-- Fork, create a feature branch, and open a pull request
-- Keep changes focused and add concise commit messages
 
----
-
-## License
-
-MIT — see LICENSE (add a LICENSE file if desired)
-
----
-
-If you'd like, I can also:
-- Add a `.env.example` and update `src/socket.js` to use `VITE_SOCKET_URL`
-- Add more detailed developer docs or a CONTRIBUTING.md
-
-Let me know which you'd prefer next.
