@@ -1,4 +1,4 @@
-# Modified Chess — Realtime Multiplayer Chess ⚔️♟️
+# Modified Chess — Realtime Multiplayer Chess 
 
 A realtime, 2-player chess game built with React (Vite) on the frontend and Node.js + Socket.IO on the backend. Players join a waiting room and are automatically matched into head-to-head games with synchronized move state powered by chess.js.
 
@@ -12,7 +12,7 @@ A realtime, 2-player chess game built with React (Vite) on the frontend and Node
 
 ---
 
-## Features ✅
+## Features 
 
 - Waiting-room queue and automatic 1v1 matching
 - Real-time move synchronization via Socket.IO
